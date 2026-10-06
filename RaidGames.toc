@@ -1,0 +1,31 @@
+## Interface: 120100, 120105
+## Title: RaidGames
+## Notes: Raid games like Gold Roll, Deathroll, Jackpot and Blackjack. Only the host needs the addon.
+## Notes-deDE: Raid-Spiele wie Gold-Roll, Deathroll, Jackpot und Blackjack. Nur der Spielleiter braucht das Addon.
+## Author: xLN
+## Version: @project-version@
+## SavedVariables: RaidGamesDB
+## IconTexture: Interface\AddOns\RaidGames\Media\raidgames_icon_64
+## AddonCompartmentFunc: RaidGames_OnAddonCompartmentClick
+## AddonCompartmentFuncOnEnter: RaidGames_OnAddonCompartmentEnter
+## AddonCompartmentFuncOnLeave: RaidGames_OnAddonCompartmentLeave
+## X-Curse-Project-ID: 1730726
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+Core.lua
+Locales\deDE.lua
+Chat.lua
+Rolls.lua
+Stats.lua
+Session.lua
+Tiebreak.lua
+Games\GoldRoll.lua
+Games\Deathroll.lua
+Games\Jackpot.lua
+Games\Blackjack.lua
+UI.lua
+Minimap.lua

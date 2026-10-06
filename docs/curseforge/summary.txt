@@ -1,0 +1,1 @@
+Run raid games like Gold Roll, Deathroll, Jackpot and Blackjack. Only the host needs the addon – players join with !roll and /roll. Tracks payouts and a leaderboard.
