@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - Unreleased
+## [1.0.0] - 2026-10-06
 
 ### Added
 - Gold Roll: everyone rolls the bet, the lowest roll pays the highest roll the difference.

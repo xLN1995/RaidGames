@@ -54,3 +54,6 @@ Das Original des Logos liegt in `assets/`; die Icons in `Media/` sind daraus erz
 
 ## Weitere Spiele
 Neue Datei in `Games/` mit `RaidGames:RegisterGame({...})` anlegen (siehe `Games/GoldRoll.lua`) und in der TOC eintragen.
+
+## Lizenz
+All rights reserved, siehe `LICENSE`. Die Bibliotheken in `Libs/` stehen unter ihren eigenen Lizenzen.

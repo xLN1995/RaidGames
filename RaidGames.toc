@@ -10,6 +10,7 @@
 ## AddonCompartmentFuncOnEnter: RaidGames_OnAddonCompartmentEnter
 ## AddonCompartmentFuncOnLeave: RaidGames_OnAddonCompartmentLeave
 ## X-Curse-Project-ID: 1730726
+## X-License: All Rights Reserved
 
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
